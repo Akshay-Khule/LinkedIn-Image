@@ -1,0 +1,119 @@
+
+ 
+
+Hi Akshay,
+
+ 
+
+Your 1st level of discussion is scheduled 
+Job Description Summary
+
+ 
+
+Who is Mastercard?
+
+Mastercard is a global technology company in the payments industry. Our mission is to connect and power an inclusive digital economy that benefits everyone, everywhere by making transactions safe, simple, smart, and accessible. Using secure data and networks, partnerships, and passion, our innovations and solutions help individuals, financial institutions, governments, and businesses realize their greatest potential.
+
+Our decency quotient, or DQ, drives our culture and everything we do inside and outside our company. With connections across more than 210 countries and territories, we are building a sustainable world that unlocks priceless possibilities for all.
+
+Overview
+
+The Mastercard Services Technology team is looking for a Principal Data Engineer to unlock the potential of our data assets by innovating continuously, removing friction from how large-scale data is stored, managed, governed, and accessed, and establishing standards across public-cloud and on-premises environments.
+
+We are looking for a hands-on, passionate engineer and architect with strong PySpark, Python, cloud and modern data-architecture expertise. This role will design scalable distributed and lakehouse platforms across regions and execution environments; establish federated governance, metadata, access, and query patterns; build reliable data solutions; shape engineering culture; and mentor others. It is a role for builders and collaborators who value clean pipelines, cloud-native design, sound architecture decisions, and helping teammates succeed.
+
+Role
+
+Design and build scalable, secure, cloud-native and hybrid data platforms and control-plane services using Java and/or Python, PySpark, REST and gRPC APIs, and modern data and software engineering practices, supporting business-critical batch, streaming, API, and secure data-sharing use cases.
+
+Architect large-scale distributed data and lakehouse platforms spanning regions, public clouds, on-premises, and private or sovereign execution environments.
+
+Define control-plane and data-plane responsibilities and clear boundaries among global governance, local enforcement, metadata and orchestration, and local workload execution.
+
+Design control-plane services and interfaces for platform configuration, metadata, policy, identity and access, provisioning, orchestration, lifecycle management, and observability using secure API-first and event-driven patterns.
+
+Design federated metadata, catalog, identity, access, query, and data-sharing patterns; evaluate federation, replication, and compute-to-data using latency, cost, regulation, residency, freshness, reliability, and operational complexity.
+
+Define data-product and data-contract standards covering ownership, interfaces, schema evolution, compatibility, lineage, quality, observability, and SLA/SLO commitments.
+
+Design processing and query architectures using Databricks, Snowflake, Spark, and Trino, with open table and file formats such as Iceberg, Delta Lake, and Parquet.
+
+Define catalog and metadata architectures using Unity Catalog, AWS Glue Data Catalog, and open catalog patterns such as Apache Polaris.
+
+Design AWS data-platform architecture using S3, IAM, EKS, networking, and relevant cloud-native data services, and Azure architecture using ADLS, Microsoft Entra ID, Azure RBAC, Key Vault, AKS, and relevant analytics services.
+
+Design Kubernetes platforms for portable compute, workload isolation, security, scaling, observability, and deployment across cloud, private, sovereign, and on-premises environments.
+
+Own and optimize infrastructure for data storage, processing, orchestration, networking, identity, secrets, security, reliability, and cost.
+
+Create architecture decision records, reference architectures, engineering standards, reusable components, and golden paths; decompose complex problems into modular, scalable, and maintainable solutions aligned with platform and product goals.
+
+Lead by example through high-quality, secure, testable code, architecture and design discussions, code reviews, testing, CI/CD, version control, documentation, observability, and performance tuning.
+
+Build governance, privacy, quality, lineage, cataloging, retention, and access management into the platform by design.
+
+Mentor engineers, share knowledge, and foster curiosity, growth, and continuous improvement while collaborating with product managers, data scientists, application engineers, architects, security partners, and stakeholders.
+
+Participate in architectural discussions, iteration planning, feature sizing, Agile ceremonies, and delivery-risk assessment; communicate trade-offs clearly and influence technical direction across teams.
+
+Continuously evaluate and apply relevant technologies and patterns to improve productivity, interoperability, reliability, and total cost of ownership.
+
+All About You
+
+10+ years of hands-on data and software engineering experience, with strong Java and/or Python, PySpark, API and backend service development skills, and a track record of delivering production-grade data platforms, control-plane services, data models, pipelines, and batch or streaming systems.
+
+Proven experience designing large-scale distributed or lakehouse platforms across multiple regions, clouds, clusters, or execution environments.
+
+Strong understanding of control-plane versus data-plane architecture and the boundaries among global governance, local enforcement, and local execution.
+
+Experience designing distributed control-plane applications using Java and/or Python, REST and gRPC APIs, asynchronous messaging, workflow and state management, authentication and authorization, multi-tenancy, idempotency, resiliency, auditability, and operational observability.
+
+Experience with federated metadata, catalog, access, query, and secure sharing patterns, including evaluating federation, replication, and compute-to-data using latency, cost, regulatory, freshness, and operational criteria.
+
+Strong knowledge of data products, data contracts, schema evolution, compatibility, lineage, quality, observability, and SLA/SLO design.
+
+Ability to produce architecture decision records, reference architectures, technical standards, reusable patterns, and golden paths adopted across teams.
+
+Strong cloud data-platform experience across AWS, Azure, or GCP, including AWS S3, IAM, Glue, EKS, networking, and cloud-native data services; and Azure ADLS, Microsoft Entra ID, Azure RBAC, Key Vault, Data Factory, Databricks, AKS, and analytics services.
+
+Hands-on architecture experience with Databricks, Snowflake, Spark, Kubernetes, Iceberg, Delta Lake, Parquet, Unity Catalog, AWS Glue Data Catalog, open catalog patterns such as Apache Polaris, and distributed-query concepts using Trino or Spark.
+
+Experience designing batch, streaming, API, and secure data-sharing architectures and integrating heterogeneous systems across cloud environments.
+
+Strong foundations in modern data architectures such as lakehouse and medallion, data lifecycle management, data modeling, database design, distributed systems, and performance optimization.
+
+Comfort with Git, CI/CD, automated testing, infrastructure as code, documentation, Agile or Scrum delivery, and production operational practices.
+
+Curious, adaptable, and committed to continuous learning and improvement.
+
+A bachelor’s degree in Computer Science, Engineering, or a related field, or equivalent hands-on experience.
+
+ 
+
+Thanks and Regards,
+
+Debarati Swain (She/her/hers)
+
+Manager
+
+Talent Acquisition
+
+ 
+
+Blue Grass Business Park,
+
+Kalyani Nagar, Pune, Maharashtra 411006,
+
+Tel +91 20-6706 5140
+
+
+
+ 
+
+For information on how Mastercard processes your personal information, please visit our Privacy Notice
+
+ 
+
+ 
+
+CONFIDENTIALITY NOTICE This e-mail message and any attachments are only for the use of the intended recipient and may contain information that is privileged, confidential or exempt from disclosure under applicable law. If you are not the intended recipient, any disclosure, distribution or other use of this e-mail message or attachments is prohibited. If you have received this e-mail message in error, please delete and notify the sender immediately. Thank you.
