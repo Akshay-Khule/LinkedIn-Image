@@ -1,0 +1,24 @@
+Primary Responsibilities:
+
+Design, build, and maintain scalable backend services and APIs using Java and Python
+Architect and implement event-driven/microservices solutions using Kafka (topics, partitions, consumer groups, schemas, retries/DLQs)
+Model, optimize, and maintain relational and/or NoSQL databases (schema design, indexing, query tuning, migrations)
+Develop data processing pipelines (streaming and batch) with solid focus on reliability, observability, and performance
+Build and integrate AI/ML-powered features (model inference services, prompt orchestration, vector search, or ML pipelines) and collaborate with data science teams
+Ensure production readiness: CI/CD, automated testing, monitoring/alerting, and incident response/root-cause analysis
+Enforce engineering best practices: code reviews, secure coding, documentation, and mentoring junior engineers
+Collaborate cross-functionally with product, QA, platform/SRE, and stakeholders to deliver roadmap initiatives
+Comply with the terms and conditions of the employment contract, company policies and procedures, and any and all directives (such as, but not limited to, transfer and/or re-assignment to different work locations, change in teams and/or work shifts, policies in regards to flexibility of work benefits and/or work environment, alternative work arrangements, and other decisions that may arise due to the changing business environment). The Company may adopt, vary or rescind these policies and directives in its absolute discretion and without any limitation (implied or otherwise) on its ability to do so
+
+Required Qualifications:
+
+Bachelors degree in Computer Science (or equivalent practical experience)
+12+ years of professional software engineering experience building backend systems in Java and/or Python
+Solid experience with databases (PostgreSQL/MySQL/Oracle and/or MongoDB/Cassandra), including performance tuning and transactional consistency
+Experience designing distributed systems (microservices, REST/gRPC, concurrency, caching, resiliency patterns)
+Proven experience delivering AI-enabled solutions (LLM integration, ML inference deployment, feature engineering, vector databases such as Pinecone/Weaviate/pgvector, or MLOps tools)
+Hands-on expertise with Kafka in production (exactly-once/at-least-once semantics, schema evolution, monitoring, capacity planning)
+Solid understanding of cloud platforms (AWS/Azure/GCP), containerization (Docker/Kubernetes), and CI/CD
+Proven solid problem-solving, communication, and ability to lead technical design discussions
+
+View more
