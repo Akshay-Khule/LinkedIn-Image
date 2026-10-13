@@ -1,8 +1,15 @@
-Client experience: What kind of clients/customers has he worked with, and what was the nature of his direct client engagement, including requirement discussions, solution presentations and stakeholder management?
-Solution Architecture: How many years of hands-on experience does he have as a Solution Architect? Has he independently handled end-to-end solution design, including HLD/LLD, application architecture, integrations, scalability, security and performance?
-AI/GenAI experience: How many years of hands-on, real-time experience does he have in AI/GenAI? What AI solutions has he designed or implemented, particularly involving RAG, LLMs, Agentic AI and multi-agent workflows?
-AI-assisted development: Has he extensively used AI coding tools such as Claude Code, Cursor, GitHub Copilot or OpenSpec? How has he leveraged these tools to accelerate coding, debugging, testing, code reviews and overall SDLC productivity?
-People management: What is his current/previous team structure, overall team size and number of direct reports? How many architects, technical leads and developers report to him?
-Technical expertise: How strong is he technically, particularly in Java, Spring Boot, Python, React.js, Angular, APIs, microservices and Data Structures (DS)? Is he still actively involved in hands-on coding?
-Architecture vs hands-on involvement: What percentage of his current responsibilities involves solution architecture, people management and hands-on development? When was the last time he personally developed or debugged production code?
-Cloud and scalability: What is his hands-on experience with AWS/Azure, cloud-native applications, distributed systems and microservices? How has he addressed scalability, security, application integrity and performance in production environments?
+1. Client experience: Enterprise CloudForte (Product) clients, Banking (JPMorgan, Morgan Stanley, BNP Paribas), pharma (Novartis), life sciences (Thermo Fisher), cybersecurity (Proofpoint). Direct engagement — forward-deployed with client teams, RFP responses, and architecture standards adopted across product teams.
+
+2. Solution Architecture: 8+ years in architect roles, 16+ overall. Independently owns end-to-end HLD/LLD, integrations, scale (~5M events/day), security, and performance.
+
+3. AI/GenAI: ~2–3 years hands-on, all production: GenAI triage agent (RAG, Foundry, 30% MTTR cut), UIA multi-agent platform (Agno, Bedrock AgentCore, Multi-LLM Gateway). 
+
+4. AI-assisted development: Claude Code and OpenAI/Anthropic SDKs in daily use.
+
+5. People management: Led teams of 25+ (architects, leads, engineers).
+
+6. Technical expertise: Strong Java/Spring Boot (16 yrs), Java, Springboot, Oauth, Spring Security, Data Enginnering, data warehouse, Python (FastAPI, PySpark), APIs, microservices, React Basic, 70% IC role.
+
+7. Architecture vs hands-on: Hands-on Principal Architect — roughly 40% architecture, 60% coding.
+
+8. Cloud and scalability: 4x AWS + Azure certified; AKS/EKS, Lambda, Functions. Production scale via idempotent processing, DLQs, transactional outbox, tenant isolation - 5M events/day, petabyte pipelines, 3 hr to 20 min optimization.
